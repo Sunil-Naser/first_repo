@@ -16,7 +16,7 @@ This is a normal text in markdown.
 
 # 3-Line brake
 
-This is 40 days long salabs and hope fully we will cover it as soon as posible.\
+This is 40 days long syllabus and hope fully we will cover it as soon as posible.\
 Let see what happend with this?
 
 # Combine two things 
@@ -126,6 +126,8 @@ print(z)
 
 
 # 13- Install extension
+
+Install md extenstion in vs 
 
 
 
