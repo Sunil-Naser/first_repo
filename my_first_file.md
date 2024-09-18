@@ -127,7 +127,8 @@ print(z)
 
 # 13- Install extension
 
-Install md extenstion in vs 
+Install md extenstion in vs. 
+if you dont know go on google and check it.
 
 
 
